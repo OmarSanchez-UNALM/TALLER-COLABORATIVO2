@@ -55,4 +55,4 @@ Desarrollar un sistema que permita obtener precios actualizados de criptomonedas
 - Bibliotecas necesarias (detalladas en `requirements.txt`):
   - `pandas`
   - `requests`
-  - `seaborn`
+  - `numpy`
