@@ -98,6 +98,12 @@ Aquí puedes ver el gráfico interactivo:
 
 ![Top 10 Cryptocurrencies by Market Cap (19/12/2024)](https://github.com/OmarSanchez-UNALM/TALLER-COLABORATIVO2/blob/CodigosAPIS/graficos/top_10_cryptos_19_12_2024.html)
 
+## Visualización de Datos
+
+Aquí puedes ver el gráfico interactivo:
+
+<iframe src="https://github.com/OmarSanchez-UNALM/TALLER-COLABORATIVO2/blob/CodigosAPIS/graficos/top_10_cryptos_19_12_2024.html" width="800" height="600" frameborder="0"></iframe>
+
 
 ## Estructura del Proyecto
 - **`codigoAPI.ipynb`**: Script principal que contiene el flujo del sistema.
