@@ -17,16 +17,22 @@ Desarrollar un sistema que permita obtener precios actualizados de criptomonedas
 
 ## Objetivos Específicos
 1. **Recopilación de datos mediante APIs:**
-   - Utilizar APIs públicas como CoinGecko o CoinMarketCap para obtener información sobre los precios de criptomonedas.
+   - Utilizar APIs como CoinGecko o CoinMarketCap para obtener información sobre los precios de criptomonedas.
    - Implementar consultas en Python usando bibliotecas como `requests` y `pandas`.
 
 2. **Estructuración de datos:**
-   - Organizar los datos en un `DataFrame` de `pandas`, incluyendo:
-     - Nombre de la criptomoneda.
-     - Precio actual.
-     - Plataforma de intercambio.
-     - Volumen de transacción.
-     - Cambio porcentual en 24 horas.
+   - Organizar los datos recopilados en un `DataFrame` de `pandas` con las siguientes columnas relevantes:
+     - **Nombre** de la criptomoneda.
+     - **Símbolo**.
+     - **Precio (USD)**.
+     - **Capitalización del mercado (USD)**.
+     - **Volumen 24h (USD)**.
+     - **Porcentaje de cambio en 24h (%)**.
+     - **Suministro circulante**.
+     - **Suministro total**.
+     - **Suministro máximo**.
+     - **Última actualización (Fecha)**.
+     - **Fuente**.
 
 3. **Cálculo de medidas de tendencia central:**
    - Calcular:
@@ -36,10 +42,7 @@ Desarrollar un sistema que permita obtener precios actualizados de criptomonedas
 
 4. **Análisis y comparaciones:**
    - Comparar precios entre plataformas de intercambio y calcular estadísticas de tendencia central para cada plataforma.
-   - Mostrar las variaciones de precios en formato de tabla.
 
-5. **Visualización de resultados:**
-   - Crear gráficos simples utilizando `matplotlib` y `seaborn` para mostrar la evolución de precios a lo largo del tiempo.
 
 ---
 
