@@ -94,6 +94,11 @@ Aquí puedes ver el gráfico interactivo:
 ![Top 10 Cryptocurrencies by Market Cap (19/12/2024)](https://github.com/OmarSanchez-UNALM/TALLER-COLABORATIVO2/raw/CodigosAPIS/graficos/top_10_cryptos_19_12_2024.html)
 
 
+Aquí puedes ver el gráfico interactivo:
+
+![Top 10 Cryptocurrencies by Market Cap (19/12/2024)](https://raw.githubusercontent.com/OmarSanchez-UNALM/TALLER-COLABORATIVO2/main/graficos/top_10_cryptos_19_12_2024.html)
+
+
 ---
 
 ## Estructura del Proyecto
