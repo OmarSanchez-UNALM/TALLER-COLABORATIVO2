@@ -1,5 +1,9 @@
 # Monitoreo de Precios de Criptomonedas a Través de APIs con Análisis de Tendencias
 
+## Integrantes
+-   Reyes Robles, Marcial 
+-   Sánchez Pérez, Omar Zenón
+
 ## Descripción
 Este proyecto tiene como objetivo crear un sistema para recopilar información sobre los precios de diferentes criptomonedas utilizando APIs públicas y realizar análisis estadísticos empleando medidas de tendencia central como la media, mediana y moda. La finalidad es ayudar a los usuarios a identificar patrones en los precios y tomar decisiones informadas sobre sus inversiones.
 
