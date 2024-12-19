@@ -87,6 +87,13 @@ Los principales hallazgos incluyen:
 3. **Insights clave:**
    - Detección de criptomonedas con mayor estabilidad relativa en sus precios.
 
+4. **Visualización**
+
+Aquí puedes ver el gráfico interactivo:
+
+![Top 10 Cryptocurrencies by Market Cap (19/12/2024)](https://github.com/OmarSanchez-UNALM/TALLER-COLABORATIVO2/raw/CodigosAPIS/graficos/top_10_cryptos_19_12_2024.html)
+
+
 ---
 
 ## Estructura del Proyecto
